@@ -1,0 +1,27 @@
+
+body{
+    background-color: silver;
+}
+#id_h2{
+    text-align: center;
+    color: black;
+   
+   
+}
+.buttons{
+    position: fixed;
+    left: 50%;
+    background-color: black;
+   color: white;
+}
+.button{
+    position: fixed;
+    right: 50%;
+   background-color: black;
+   color: white;
+}
+
+.buttons:hover{
+    box-shadow: 0 12px 16px 0 #eee, 0 17px 50px 0 rgba(0,0,0,0.19)}
+    .button:hover{
+        box-shadow: 0 12px 16px 0 #eee, 0 17px 50px 0 rgba(0,0,0,0.19)}
